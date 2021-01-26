@@ -1,0 +1,14 @@
+
+#output {
+    position:absolute;
+    bottom:0;
+    right:0;
+}
+
+#btn-two {
+    transition: transform .2s; /* Animation */
+  }
+  
+  #btn-two:hover {
+    transform: scale(2);
+  }
