@@ -95,7 +95,6 @@ buttonFive.addEventListener("click", () => {
   sortList(ul);
   setVisiblity(true);
 
-  //getLi();
 });
 
 function sortList(ul) {
